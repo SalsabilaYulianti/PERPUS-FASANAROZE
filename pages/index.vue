@@ -63,7 +63,7 @@
 
   <div>
     <div class="showData">
-      <H1 class="text-center mb-5">Riwayat Pengunjung</H1>
+      <h1 class="text-center mb-5">Riwayat Pengunjung</h1>
       <div class="table-responsive">
         <table class="table table-bordered table-striped">
           <thead class="table-dark">
